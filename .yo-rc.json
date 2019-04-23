@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.blog"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "blog",
+        "packageName": "com.blog",
+        "packageFolder": "com/blog",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YzIwY2M2OGQ0MDQ1ZmU1YWNlZDU2MTUyN2IwNThmMWU2NTBhZTcxMmNkYTdlYTM3NGJiNTdiMThiYWY2MDViYzQ2NmIxMGY0NTNiNTYwMzFhOTQxOTIyNWRkZmVjMmI1NzFhMDg4ODViZDYyZTIxZWIzYWZiZDk1OTFjNDdhMTk=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
